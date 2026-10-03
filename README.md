@@ -1,7 +1,5 @@
 # Lab1Web - Praktikum 1 HTML Dasar
 
-## Identitas
-
 Nama: Indra Dwiyantoro  
 NIM: 312510495  
 Program Studi: Teknik Informatika
