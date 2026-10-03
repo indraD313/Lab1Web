@@ -2,8 +2,8 @@
 
 ## Identitas
 
-Nama: Nama Mahasiswa  
-NIM: NIM Mahasiswa  
+Nama: Indra Dwiyantoro  
+NIM: 312510495  
 Program Studi: Teknik Informatika
 
 ## Tujuan Praktikum
